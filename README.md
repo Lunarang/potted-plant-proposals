@@ -1,8 +1,6 @@
 # PottedPlantProposals
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/potted_plant_proposals`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Return to your geographical region's roots by discovering a variety of plants that were actually intended to grow in your local biome's climate conditions! These particular species love to grow and be prominently displayed in quirky containers that reflect their loving owner's great personality and impeccible taste. This app give the user a list of appropriate container garden plants by zipcode... AND allow the user to checkout each plant's unique attributes! 
 
 ## Installation
 

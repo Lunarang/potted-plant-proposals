@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative "../lib/potted_plant_proposals"
+
+PottedPlantProposals::CLI.new.call
