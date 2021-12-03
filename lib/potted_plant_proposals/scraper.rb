@@ -19,12 +19,12 @@ module PottedPlantProposals
         def get_plants
             self.get_page.css(".tout__content")
         end
-        
+
         def make_plants
             self.get_plants.first(10).each do |item|
                 plant = Plant.new
                 plant.name = item.css("a").attribute("title").text.split(", <em>")[0]
-                plant.scientific_name = item.css("a").attribute("title").text.split(", <em>")[1].gsub("</em>", "")
+                plant.scientific_name = item.css("span em").text.gsub("_", "")
                 plant.light = item.css("ul li")[1].css(".tout__contentListItemValue").text
                 plant.color = item.css("ul li")[2].css(".tout__contentListItemValue").text
                 plant.type = item.css("ul li")[3].css(".tout__contentListItemValue").text

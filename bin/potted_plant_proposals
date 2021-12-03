@@ -1,12 +1,6 @@
 #!/usr/bin/env ruby
 require_relative "../lib/potted_plant_proposals"
 
-PottedPlantProposals::CLI.new.call
+puts "Welcome future plant parental unit!\n"
 
-puts "How about trying another zipcode?"
-input = gets.chomp
-if input == "y" || input == "yes"
-    PottedPlantProposals::CLI.new.call
-else 
-    puts "Maybe next time, then. Goodbye!"
-end
+PottedPlantProposals::CLI.new.call

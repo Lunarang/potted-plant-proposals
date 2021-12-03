@@ -2,7 +2,6 @@ PATH
   remote: .
   specs:
     potted_plant_proposals (0.1.0)
-      httparty
       nokogiri
 
 GEM
@@ -10,14 +9,7 @@ GEM
   specs:
     ast (2.4.2)
     coderay (1.1.3)
-    httparty (0.20.0)
-      mime-types (~> 3.0)
-      multi_xml (>= 0.5.2)
     method_source (1.0.0)
-    mime-types (3.4.1)
-      mime-types-data (~> 3.2015)
-    mime-types-data (3.2021.1115)
-    multi_xml (0.6.0)
     nokogiri (1.12.5-x86_64-linux)
       racc (~> 1.4)
     parallel (1.21.0)

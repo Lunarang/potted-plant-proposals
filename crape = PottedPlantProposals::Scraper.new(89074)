@@ -1,0 +1,167 @@
+=> [1;34m#(Element:0x3fffe1903f64 {[0m
+  name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+  attributes = [ [1;34m#(Attr:0x3fffe1912474 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__content[1;31m"[0m[31m[0m })],
+  children = [
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                        [1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x3fffe191226c {[0m
+      name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+      attributes = [ [1;34m#(Attr:0x3fffe1a416d8 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentHeadline[1;31m"[0m[31m[0m })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                        [1;35m\n[0m[31m                            [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1a41624 {[0m
+          name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+          attributes = [
+            [1;34m#(Attr:0x3fffe1a5a110 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__titleLink[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x3fffe1a5a0fc {[0m name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m/gardening/plant-dictionary/rose/species-rose/[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x3fffe1a5a0e8 {[0m name = [31m[1;31m"[0m[31mtitle[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mSpecies Rose, <em>Rosa_ species</em>[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                            [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1a5a070 {[0m
+              name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m,
+              attributes = [ [1;34m#(Attr:0x3fffe1ab8b5c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout_titleLinkText[1;31m"[0m[31m[0m })],
+              children = [
+                [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              Species Rose, [1;31m"[0m[31m[0m),
+                [1;34m#(Element:0x3fffe1ab8b0c {[0m name = [31m[1;31m"[0m[31mem[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mRosa_ species[1;31m"[0m[31m[0m)] }),
+                [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                            [1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                            [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                        [1;35m\n[0m[31m                        [1;31m"[0m[31m[0m)]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                        [1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x3fffe19121e0 {[0m
+      name = [31m[1;31m"[0m[31mul[1;31m"[0m[31m[0m,
+      attributes = [ [1;34m#(Attr:0x3fffe1c36204 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentList[1;31m"[0m[31m[0m })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c361b4 {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1c39f58 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1c39ef4 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1c54f24 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mzones:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1c39ecc {[0m name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1c7a4a4 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m4, 5, 6, 7, 8, 9[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c3618c {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1ca99d4 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1ca9984 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1cbbc4c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mlight:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1ca995c {[0m name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1ccf814 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mSun, Part Sun[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c36164 {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1ce5614 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1ce55c4 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1cf4df8 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mflower color:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1ce559c {[0m name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1d1db7c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mWhite, Pink, Red[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c3613c {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe19184f0 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1918450 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1a3a7ac {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mfoliage color:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1918374 {[0m name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1a5ad90 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mChartreuse/Gold[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c36114 {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1a94acc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1a94978 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1abb654 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mplant type:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1a94928 {[0m name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe18c28fc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mRose[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c360ec {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1c1c91c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1c1c8cc {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1c33158 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mheight:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1c1c8a4 {[0m
+              name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m,
+              attributes = [ [1;34m#(Attr:0x3fffe1c4a240 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })],
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m3 to 8 feet, 8 to 20 feet[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c360c4 {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1c7a0bc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1c7b5c0 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1c98314 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mseason features:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1c81f9c {[0m
+              name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m,
+              attributes = [ [1;34m#(Attr:0x3fffe1cad304 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })],
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mWinter Interest, Spring Bloom, Summer Bloom, Fall Bloom[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c3609c {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1ccf454 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1ccf404 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe1cd0390 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mspecial features:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1ccf3dc {[0m
+              name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m,
+              attributes = [ [1;34m#(Attr:0x3fffe1cf5e38 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })],
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mGood for Containers, Fragrance, Attracts Birds, Low Maintenance[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1c36074 {[0m
+          name = [31m[1;31m"[0m[31mli[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x3fffe1d1d2bc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItem[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1d1d26c {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, attributes = [ [1;34m#(Attr:0x3fffe18d8fe4 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListLabel[1;31m"[0m[31m[0m })], children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mproblem solvers:[1;31m"[0m[31m[0m)] }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x3fffe1d1d244 {[0m
+              name = [31m[1;31m"[0m[31mspan[1;31m"[0m[31m[0m,
+              attributes = [ [1;34m#(Attr:0x3fffe1a3add8 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__contentListItemValue[1;31m"[0m[31m[0m })],
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mSlope/Erosion Control, Deer Resistant[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                        [1;31m"[0m[31m[0m)]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                          [1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x3fffe1912190 {[0m
+      name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+      attributes = [ [1;34m#(Attr:0x3fffe1a774f4 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtout__summary[1;31m"[0m[31m[0m })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                            [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x3fffe1a77364 {[0m
+          name = [31m[1;31m"[0m[31mp[1;31m"[0m[31m[0m,
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31mIf you favor a slightly wilder look in your garden, look to the ancestors of roses you grow and enjoy for many of the same admirable qualities. Most species roses offer small blooms, and they usually appear only once a season, but the landscaping benefits make them worthwhile to include in borders and background plantings. Most species roses can tolerate extreme weather conditions and because of their colorful hips (fruit), they are good choices for attracting birds and other wildlife to the garden. The canes are often vigorous and arching. Stems may be highly colored but are almost always thorny, making large species good candidates for privacy hedging and deer-frequented areas.[1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                          [1;31m"[0m[31m[0m)]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                  [1;35m\n[0m[31m                    [1;31m"[0m[31m[0m)]
+  })
