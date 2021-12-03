@@ -13,7 +13,7 @@ module PottedPlantProposals
         end
 
         def get_page
-            Nokogiri::HTML(open("#{link}"))
+            Nokogiri::HTML(open("#{@@link}"))
         end
         
         def get_plants
@@ -21,7 +21,7 @@ module PottedPlantProposals
         end
         
         def make_plants
-            self.get_plants.each do |item|
+            self.get_plants.first(10).each do |item|
                 plant = Plant.new
                 plant.name = item.css("a").attribute("title").text.split(", <em>")[0]
                 plant.scientific_name = item.css("a").attribute("title").text.split(", <em>")[1].gsub("</em>", "")
