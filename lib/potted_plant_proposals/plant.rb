@@ -9,13 +9,11 @@ module PottedPlantProposals
             @@all << self
         end
 
-        def self.show_profile(index)
-            all[index].instance_variables.each do |name| 
-                title = name.to_s.gsub("@", "").upcase
-                binding.pry
-                desc = instance_variable_get("#{name}")
-                puts "#{title}:"
-                puts "#{desc}"
+        def show_profile
+            self.instance_variables.each do |variable| 
+                title = variable.to_s.gsub("@", "").upcase
+                desc = self.instance_variable_get("#{variable}")
+                puts "#{title}:\n#{desc}\n\n"
             end
         end
 
